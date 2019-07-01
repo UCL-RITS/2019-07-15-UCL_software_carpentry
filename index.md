@@ -34,6 +34,9 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
+<div class="alert alert-danger">
+The schedule is not final and subject to changes.
+</div>
 
 {% if page.carpentry != site.carpentry %}
 <div class="alert alert-warning">
